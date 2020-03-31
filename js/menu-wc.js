@@ -58,6 +58,9 @@ customElements.define('compodoc-menu', class extends HTMLElement {
                                     <li class="link ">
                                         <a href="additional-documentation/upgrade-partner-commerce-template-from-winter-v1903-to-spring-v2001.html" data-type="entity-link" data-context-id="additional">Upgrade partner commerce template from Winter v1903 to Spring v2001</a>
                                     </li>
+                                    <li class="link ">
+                                        <a href="additional-documentation/upgrade-ecommerce-templat-from-summer-v1902-to-spring-v2001.html" data-type="entity-link" data-context-id="additional">Upgrade ecommerce templat from Summer v1902 to Spring v2001</a>
+                                    </li>
                         </ul>
                     </li>
                     <li class="chapter modules">
